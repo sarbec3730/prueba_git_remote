@@ -1,2 +1,3 @@
 nombre: Sarah
 Apellidos: Beck Enríquez de Salamanca
+edad: 24
